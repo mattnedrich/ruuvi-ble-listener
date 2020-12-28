@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-ble": "^1.2.0"
+    "node-ruuvitag": "^4.6.1"
   }
 }
